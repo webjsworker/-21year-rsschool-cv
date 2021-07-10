@@ -1,1 +1,0 @@
-https://github.com/webjsworker/rsschool-cv/cv
