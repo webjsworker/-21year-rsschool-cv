@@ -1,2 +1,2 @@
 
-https://webjsworker.github.io/rsschool-cv/
+https://webjsworker.github.io/rsschool-cv/cv
